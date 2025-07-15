@@ -1,0 +1,22 @@
+{
+  "dialect": "alphafold3",
+  "version": 1,
+  "name": "P0_P47955_Q9JJI8_1",
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "MASVSELACIYSALILHDDEVTVTEDKINALIKAAGVSVEPFWPGLFAKALANVNIGSLICNVGAGGPAPAAGAAPAGGAAPSTAAAPAEEKKVEAKKEESEESEDDMGFGLFD"
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "MPRKIEEIKDFLLTARRKDAKSVKIKKNKDNVKFKVRCSRYLYTLVITDKEKAEKLKQSLPPGLAVKDLK"
+      }
+    }
+  ],
+  "modelSeeds": [
+    0
+  ]
+}
